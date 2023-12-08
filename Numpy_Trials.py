@@ -1,9 +1,9 @@
 import numpy as np
 """
 Why NumPy?
-Fixed type
-Low memory
-Contiguous Memory
+Fixed type - all element in numpy array is same
+Low memory - uses less memory than normal list in python
+Contiguous Memory - stored value in contigous memory instead of random memory
 • SIMD single instruction multiple data vector processing
 • Effective Cache Utilization
 """
